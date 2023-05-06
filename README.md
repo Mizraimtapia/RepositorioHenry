@@ -1,2 +1,2 @@
 # RepositorioHenry
-Reositorio de prueba m2
+Repositorio de prueba m2
